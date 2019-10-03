@@ -1,0 +1,105 @@
+.selected_contentsection {
+    background-color: #bdffb2;
+}
+
+.breadcrumb {
+    float: right;
+    margin-right: 5px;
+    font-size: 12px;
+    color: #91855c;
+}
+
+.breadcrumb_link {
+    text-decoration: none;
+    color:#91855c;
+}
+
+.breadcrumb_link:hover {
+    text-decoration: underline;
+    opacity: 0.7;
+}
+
+.input_searchfield {
+    float: left;
+    padding: 6px;
+    margin-top: 8px;
+    margin-left: 8px;
+    font-size: 12px;
+    border-left: #bdffb2 solid 1px;
+    border-top: #bdffb2 solid 1px;
+    border-bottom: #bdffb2 solid 1px;
+}
+
+.searchbutton {
+    float: left;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 5px;
+    background: #ddd;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+.form_container {
+    float: right;
+    margin-top: 7px;
+}
+
+.egy {
+    justify-content: center;
+    display: flex;
+margin: 80px;
+
+}
+.kep {
+    width: 600px;
+
+}
+
+.ketto {
+    width: 350px;
+    background-color: white;
+    margin: 20px;
+
+}
+
+.szoveg {
+    padding: 20px;
+    text-align: center;
+
+}
+
+.tablazat {
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+    border-collapse: collapse;
+
+}
+
+
+.price2 {
+    justify-content: center;
+    display: flex;
+    margin: 30px;
+}
+
+.button {
+    justify-content: center;
+    display: flex;
+
+}
+
+.buybutton {
+    background-color: darkgreen;
+    color: yellow;
+
+
+}
+
+
+
+
+
+
